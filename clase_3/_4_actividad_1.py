@@ -22,7 +22,7 @@ estudiantes_datos = [
 # 1
 # Agregar emails ficticios usando append()
 # Ejemplo: para Thiago Almada → [1, "Thiago", "Almada", "talmada@mail.com"].
-
+estudiantes_datos.append(["John", "Doe"])
 # 2
 # Agregar los ids faltantes usando insert()
 
