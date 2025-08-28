@@ -1,5 +1,5 @@
 # Lista de headers para los estudiantes
-estudiantes_header = ["id_estudiante", "nombre", "apellido", "email"]
+estudiantes_header = ["id_estudiante", "nombre", "apellido", "email", "edad"]
 
 # Lista de datos (matriz de alumnos)
 estudiantes_datos = [
